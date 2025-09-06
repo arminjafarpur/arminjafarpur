@@ -1,4 +1,6 @@
+<center>
 <img src='./AJ Logo.png' alt='Logo' width='250px' align='center'/>
+ </center>
 <h1 align='center'> Armin Jafarpur </h1>
 
 <!--
