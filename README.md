@@ -1,4 +1,4 @@
-<img src=’./AJ Logo.png’ alt=’Logo’ width=’250px’/>
+<img src='./AJ Logo.png' alt='Logo' width='250px'/>
 <h1 align='center'> Armin Jafarpur </h1>
 
 <!--
