@@ -1,4 +1,4 @@
-<h1> Armin Jafarpur </h1>
+<h1 align='center'> Armin Jafarpur </h1>
 
 <!--
 **arminjafarpur/arminjafarpur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
