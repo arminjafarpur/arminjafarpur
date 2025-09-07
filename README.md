@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='./AJ Logo.png' alt='AJ Logo' width='250px'/>
+<img src='./AJ Logo.png' alt='AJ Logo' width='500px'/>
  </div>
 <h1 align='center'> Armin Jafarpur </h1>
 
